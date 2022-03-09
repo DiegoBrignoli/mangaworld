@@ -3,7 +3,7 @@
 [![GoDoc](https://godoc.org/github.com/gorilla/mux?status.svg)](https://pkg.go.dev/github.com/DiegoBrignoli/mangaworld)
 [![CircleCI](https://circleci.com/gh/gorilla/mux.svg?style=svg)](https://circleci.com/gh/DiegoBrignoli/mangaworld)
 
-Package `kiritoNya/mangaworld` implements many API that allow web scraping from the site [Mangaworld](https://www.mangaworld.io/).
+Package `DiegoBrignoli/mangaworld` implements many API that allow web scraping from the site [Mangaworld](https://www.mangaworld.io/).
 
 It implements:
 
@@ -28,7 +28,7 @@ It implements:
 With a [correctly configured](https://golang.org/doc/install#testing) Go toolchain:
 
 ```sh
-go get -u github.com/kiritoNya/mangaworld
+go get -u github.com/DiegoBrignoli/mangaworld
 ```
 
 ## Examples
