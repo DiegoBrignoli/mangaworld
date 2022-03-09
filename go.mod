@@ -1,4 +1,4 @@
-module github.com/KiritoNya/mangaworld
+module github.com/DiegoBrignoli/mangaworld
 
 go 1.16
 
