@@ -28,7 +28,7 @@ It implements:
 With a [correctly configured](https://golang.org/doc/install#testing) Go toolchain:
 
 ```sh
-go get -u github.com/DiegoBrignoli/mangaworld
+go get -u github.com/DiegoBrignoli/mangaworld/v2
 ```
 
 ## Examples
